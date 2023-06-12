@@ -1,0 +1,30 @@
+.app_container {
+    font-family: sans-serif;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: baseline;
+    color: #010101;
+    background-color: #f7f2f2;
+} 
+
+.conteiner__title {
+    font-size: 32px;
+}
+
+.btn__list {
+    display: flex;
+    gap: 5px;
+    margin-top: 2cqb;
+}
+
+.statistics__conteiner {
+    padding-top: 20px;
+}
+
+.statistics__item-text{
+    text-transform: capitalize;
+}
+
+ 
