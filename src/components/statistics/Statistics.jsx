@@ -1,5 +1,4 @@
-// import PropTypes from 'prop-types';
-import css from './StatisticsFeedback.module.css';
+import css from './Statistics.module.css';
 import PropTypes from 'prop-types';
 
 const Statistics = ({ option, count }) => {

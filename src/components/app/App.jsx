@@ -1,7 +1,7 @@
 import css from './App.module.css'
 import { Component } from 'react';
-import FeedbackOptions from 'components/btnFeedback';
-import Statistics from 'components/statisticsFeedback';
+import FeedbackOptions from 'components/feedbackOptions';
+import Statistics from 'components/statistics';
 import Section from 'components/section';
 import Notification from 'components/notification';
 
